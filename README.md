@@ -3,8 +3,8 @@
 
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=1200&lines=Hi%2C+I'm+Selim;I'm+a+Frontend+Developer;MERN+Stack+%F0%9F%9A%80;Junior+Developer+on+the+Rise"  width="1200" alt="Typing SVG" />
+<p align="center" width="1400">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=1200&lines=Hi%2C+I'm+Selim;I'm+a+Frontend+Developer;MERN+Stack+%F0%9F%9A%80;Junior+Developer+on+the+Rise"  width="1400" alt="Typing SVG" />
 </p>
 
 
@@ -25,8 +25,8 @@
 
 ---
 
-### 🛠️ 
-<h3 align="left">Languages and Tools:</h3>
+
+ <h3 align="left">### 🛠️ Languages and Tools:</h3>
 
 <p align="left">
   <!-- Frontend -->
