@@ -1,9 +1,7 @@
- [![MasterHead](https://images.unsplash.com/photo-1633356122544-f134324a6cee?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 
 
- <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake gif" width="100%"/>
 
 
 
@@ -30,3 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=selimgul01&show_icons=true&locale=en" alt="selimgul01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=selimgul01&" alt="selimgul01" /></p>
+
+
+ <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake gif" width="100%"/>
+
